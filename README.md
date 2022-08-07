@@ -1,9 +1,5 @@
-# CS172 - Assignment 1 (Tokenization)
+Tokenization
 
-## Team member 1 - Qi Liu
-## Team member 2 - None
-
-###### Provide a short explanation of your design
 This program is implemented using Python and provided base code for parsing. There are two .py tles in total:
 1.  parsing.py
 2.  read_index.py
@@ -15,7 +11,7 @@ read_index.py is the user interface, and it exits upon any incorrect input or em
 Data structure: term_id[] is a dictionary that stores every term's id and total frequency.
 docs_list is a dictionary that uses term as its key, and another dictionary as its value. This inner dictionary then uses docno as its key and a list of positions as its value.
 docs_info is a dictionary that uses docno as its key, and docID, and total terms in each doc as its values.
-###### Language used, how to run your code, if you attempted the extra credit (stemming), etc. 
+
 The language used is Python3. 
 
 Extra Credit attempted and finished:
